@@ -1,0 +1,7 @@
+{
+  "mongo_host": "localhost",
+  "mongo_port": 27017,
+  "database_name": "db",
+  "collection_name": "sample_collection",
+  "tg_bot_token": "7174226159:AAF9LD18wVafHINl46L3Sfco3JevLa21KD0"
+}
